@@ -2469,6 +2469,7 @@ this.wordle = this.wordle || {}, this.wordle.bundle =  function(e) {
 "aarti",
 "aasan",
 "aasha",
+"aaste",
 "aashu",
 "aataa",
 "aatma",
