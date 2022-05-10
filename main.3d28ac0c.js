@@ -6804,7 +6804,7 @@ this.wordle = this.wordle || {}, this.wordle.bundle =  function(e) {
                                         }
                                     })), d += "\n")
                                 })), {
-                                    text: "".concat(l, "\n \n").concat(d.trimEnd()).concat("\n\n tinyurl.com/hwordle \n")
+                                    text: "".concat(l, "\n \n").concat(d.trimEnd()).concat("\n\n bit.ly/HinglishWordle \n")
                                 }
                             }({
                                 evaluations: e.gameApp.evaluations,
