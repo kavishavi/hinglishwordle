@@ -2311,6 +2311,13 @@ this.wordle = this.wordle || {}, this.wordle.bundle =  function(e) {
 "dhire",
 "table",
 "pahal",
+"gitti",
+"aksar",
+"kabil",
+"dhima",
+"rohit",
+"kaafi",
+"kamae",
                         ],
                         Oa = [
 "aabad",
