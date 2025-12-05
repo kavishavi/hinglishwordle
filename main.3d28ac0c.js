@@ -8223,7 +8223,17 @@ this.wordle = this.wordle || {}, this.wordle.bundle =  function(e) {
 "theth",
 "unman",
 "vadya",
-"yaden",                    
+"yaden", 
+"dambh",
+"gamya",
+"saana",
+"satna",
+"kulle",
+"kulli",
+"asarg",
+"damit",
+"alaav",
+"kahva",
                       ],                  
         Ra = "present",
         Ha = "correct",
@@ -9318,4 +9328,5 @@ this.wordle = this.wordle || {}, this.wordle.bundle =  function(e) {
         value: !0
     }), e
 }({});
+
 
