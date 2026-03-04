@@ -4950,11 +4950,11 @@ this.wordle = this.wordle || {}, this.wordle.bundle =  function(e) {
 "kisna",
 "kisne",
 "kitak",
+"kitna",
+"kitne",
 "kitni",
 "kitno",
-"kiyaa",
 "klesh",
-"kodee",
 "kodha",
 "kodhe",
 "kodhi",
@@ -8121,6 +8121,7 @@ this.wordle = this.wordle || {}, this.wordle.bundle =  function(e) {
         value: !0
     }), e
 }({});
+
 
 
 
