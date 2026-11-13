@@ -2911,7 +2911,6 @@ this.wordle = this.wordle || {}, this.wordle.bundle =  function(e) {
 "tohna",
 "uthle",
 "ulhas",
-"uljhu",
 "todne",
 "utari",
 "upjau",
@@ -3554,7 +3553,6 @@ this.wordle = this.wordle || {}, this.wordle.bundle =  function(e) {
 "aabad",
 "aabha",
 "aabru",
-"aadaa",
 "aadab",
 "aadam",
 "aadar",
@@ -3578,7 +3576,6 @@ this.wordle = this.wordle || {}, this.wordle.bundle =  function(e) {
 "aahte",
 "aaina",
 "aaiye",
-"aajaa",
 "aakar",
 "aalam",
 "aalap",
@@ -8850,7 +8847,6 @@ this.wordle = this.wordle || {}, this.wordle.bundle =  function(e) {
 "uljhe",
 "uljhi",
 "uljho",
-"uljhu",
 "ulkaa",
 "ullas",
 "ultaa",
@@ -9155,7 +9151,7 @@ this.wordle = this.wordle || {}, this.wordle.bundle =  function(e) {
             s = e % 100;
         return e + (a[(s - 20) % 10] || a[s] || a[0])
     }
-    var Ga = new Date(2021, 5, 22, 0, 0, 0, 0);
+    var Ga = new Date(2021, 5, 23, 0, 0, 0, 0);
 
     function Ba(e, a) {
         var s = new Date(e),
